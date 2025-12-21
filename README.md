@@ -45,7 +45,7 @@ The program only uses built-in modules.
 ## Example Output
 Enter a password to analyze: Password123
 
-Password Strength Score: 70/100
+Password Strength Score: 85/100
 Suggestions to improve password:
 - Add special charactrers.
 
